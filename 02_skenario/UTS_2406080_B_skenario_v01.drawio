@@ -1,0 +1,312 @@
+<mxfile host="65bd71144e">
+    <diagram id="XZ06TQ7UUGuZdXe43s06" name="Page-1">
+        <mxGraphModel dx="1389" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-27" parent="1" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fixedHeader=1;tableRender=collapsed;align=left;spacing=5;strokeColor=#000000;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="932" width="800" x="440" y="410" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-28" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-29" parent="IJI2e8Cj_JeOgmCL-3Dh-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Nama Use Case" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-30" parent="IJI2e8Cj_JeOgmCL-3Dh-28" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="SIA-UC01 Mendaftar kegiatan" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-31" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-32" parent="IJI2e8Cj_JeOgmCL-3Dh-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Aktor" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-33" parent="IJI2e8Cj_JeOgmCL-3Dh-31" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="Peserta" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-34" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-35" parent="IJI2e8Cj_JeOgmCL-3Dh-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Tujuan" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-36" parent="IJI2e8Cj_JeOgmCL-3Dh-34" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="Peserta dapat mendaftar pada UKM yang kuotanya masih tersedia" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-37" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="63" width="800" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-38" parent="IJI2e8Cj_JeOgmCL-3Dh-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Deskripsi" vertex="1">
+                    <mxGeometry height="63" width="400" as="geometry">
+                        <mxRectangle height="63" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-39" parent="IJI2e8Cj_JeOgmCL-3Dh-37" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="Peserta melihat daftar kegiatan UKM&amp;nbsp; beserta kuotanya, memilih kegiatan lalu mendaftar" vertex="1">
+                    <mxGeometry height="63" width="400" x="400" as="geometry">
+                        <mxRectangle height="63" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-40" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="34" width="800" y="153" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-41" parent="IJI2e8Cj_JeOgmCL-3Dh-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Kegiatan" vertex="1">
+                    <mxGeometry height="34" width="400" as="geometry">
+                        <mxRectangle height="34" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-42" parent="IJI2e8Cj_JeOgmCL-3Dh-40" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="Respon sistem" vertex="1">
+                    <mxGeometry height="34" width="400" x="400" as="geometry">
+                        <mxRectangle height="34" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-43" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="187" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-44" parent="IJI2e8Cj_JeOgmCL-3Dh-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Skenario Normal" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-45" parent="IJI2e8Cj_JeOgmCL-3Dh-43" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-46" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="217" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-47" parent="IJI2e8Cj_JeOgmCL-3Dh-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="1. Membuka menu mendaftar UKM" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-48" parent="IJI2e8Cj_JeOgmCL-3Dh-46" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-49" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="247" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-50" parent="IJI2e8Cj_JeOgmCL-3Dh-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-51" parent="IJI2e8Cj_JeOgmCL-3Dh-49" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="2. Menampilkan daftar kegiatan beserta kuota peserta" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-52" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="277" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-53" parent="IJI2e8Cj_JeOgmCL-3Dh-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="3. Memilih kegiatan dan menekan tombol daftar" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-54" parent="IJI2e8Cj_JeOgmCL-3Dh-52" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-55" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="800" y="307" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-56" parent="IJI2e8Cj_JeOgmCL-3Dh-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-57" parent="IJI2e8Cj_JeOgmCL-3Dh-55" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="4. Kuota tersedia mencatat pendaftaran dengan status terdaftar lalu menampilkan pesan berhasil dan pilihan tindakan" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-58" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="353" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-59" parent="IJI2e8Cj_JeOgmCL-3Dh-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="5. Memilih cetak kartu peserta extend mencetak kartu peserta&amp;nbsp;" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-60" parent="IJI2e8Cj_JeOgmCL-3Dh-58" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-61" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="383" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-62" parent="IJI2e8Cj_JeOgmCL-3Dh-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-63" parent="IJI2e8Cj_JeOgmCL-3Dh-61" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="6. menampilkan kartu peserta untuk di cetak" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-64" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="800" y="413" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-65" parent="IJI2e8Cj_JeOgmCL-3Dh-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Skenario Alternative" vertex="1">
+                    <mxGeometry height="30" width="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-66" parent="IJI2e8Cj_JeOgmCL-3Dh-64" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="30" width="400" x="400" as="geometry">
+                        <mxRectangle height="30" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-67" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="800" y="443" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-68" parent="IJI2e8Cj_JeOgmCL-3Dh-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="7. Kuota penuh lanjut ke langkah ke 2" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-69" parent="IJI2e8Cj_JeOgmCL-3Dh-67" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-70" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="41" width="800" y="489" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-71" parent="IJI2e8Cj_JeOgmCL-3Dh-70" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="41" width="400" as="geometry">
+                        <mxRectangle height="41" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-72" parent="IJI2e8Cj_JeOgmCL-3Dh-70" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="8. Kuota tidak tersedia menampilkan pesan kuota penuh dan tidak menyimpan pendaftaran" vertex="1">
+                    <mxGeometry height="41" width="400" x="400" as="geometry">
+                        <mxRectangle height="41" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-73" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="800" y="530" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-74" parent="IJI2e8Cj_JeOgmCL-3Dh-73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="9. Memilih kegiatan lain kembali ke langkah 2" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-75" parent="IJI2e8Cj_JeOgmCL-3Dh-73" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-76" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="800" y="576" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-77" parent="IJI2e8Cj_JeOgmCL-3Dh-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-78" parent="IJI2e8Cj_JeOgmCL-3Dh-76" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="10. Memeriksa kuota peserta yang dipilh" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-85" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="800" y="622" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-86" parent="IJI2e8Cj_JeOgmCL-3Dh-85" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="11. Peserta membatalkan pendaftaran lanjut ke langkah 3" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-87" parent="IJI2e8Cj_JeOgmCL-3Dh-85" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-88" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="800" y="668" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-89" parent="IJI2e8Cj_JeOgmCL-3Dh-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-90" parent="IJI2e8Cj_JeOgmCL-3Dh-88" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="12. Memproses pembatalan" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-91" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="800" y="714" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-92" parent="IJI2e8Cj_JeOgmCL-3Dh-91" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="13. Memilih batalkan pendaftaran extend membatalkan pendaftaran" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-93" parent="IJI2e8Cj_JeOgmCL-3Dh-91" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-94" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="800" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-95" parent="IJI2e8Cj_JeOgmCL-3Dh-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" vertex="1">
+                    <mxGeometry height="46" width="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-96" parent="IJI2e8Cj_JeOgmCL-3Dh-94" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="14. Merubah status pendaftaran jadi dibatalkan, mengembalikan kuota dan menampilkan pesan pembatalan berhasil" vertex="1">
+                    <mxGeometry height="46" width="400" x="400" as="geometry">
+                        <mxRectangle height="46" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-79" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="63" width="800" y="806" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-80" parent="IJI2e8Cj_JeOgmCL-3Dh-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Skenario Akhir" vertex="1">
+                    <mxGeometry height="63" width="400" as="geometry">
+                        <mxRectangle height="63" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-81" parent="IJI2e8Cj_JeOgmCL-3Dh-79" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="Use case selesai jika jadwal kuliah berhasil ditampilkan; jika data belum tersedia, use case selesai dengan pesan informasi dan tidak ada perubahan data." vertex="1">
+                    <mxGeometry height="63" width="400" x="400" as="geometry">
+                        <mxRectangle height="63" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-82" parent="IJI2e8Cj_JeOgmCL-3Dh-27" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=#000000;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fixedHeader=1;align=left;spacing=5;swimlaneFillColor=none;" value="" vertex="1">
+                    <mxGeometry height="63" width="800" y="869" as="geometry"/>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-83" parent="IJI2e8Cj_JeOgmCL-3Dh-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;fontStyle=1;verticalAlign=top;swimlaneFillColor=none;" value="Penelusuran" vertex="1">
+                    <mxGeometry height="63" width="400" as="geometry">
+                        <mxRectangle height="63" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="IJI2e8Cj_JeOgmCL-3Dh-84" parent="IJI2e8Cj_JeOgmCL-3Dh-82" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#000000;overflow=hidden;fillColor=none;pointerEvents=1;align=left;spacing=5;verticalAlign=top;swimlaneFillColor=none;" value="Tabel SIA-UC01 · asosiasi Mahasiswa · tidak ada include, extend, generalization, atau realization · cocok dengan diagram P04." vertex="1">
+                    <mxGeometry height="63" width="400" x="400" as="geometry">
+                        <mxRectangle height="63" width="400" as="alternateBounds"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
